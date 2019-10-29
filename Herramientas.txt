@@ -1,0 +1,5 @@
+1: John the Ripper;  Es otra herramienta popular de cracking utilizada en la comunidad de pruebas de penetración (y hacking). Inicialmente fue desarrollado para sistemas Unix, pero ha crecido para estar disponible en más de 10 distros.
+Cuenta con un cracker personalizable, detección de hash de contraseña automática, ataque de fuerza bruta y ataque de diccionario (entre otros modos de cracking).
+
+2:Nmap (“Network Mapper”):Es una herramienta gratuita y de código abierto utilizada por los administradores del sistema para descubrir redes y auditar tu seguridad.
+Es rápido en su funcionamiento, está bien documentado, cuenta con una interfaz gráfica, admite transferencia de datos, inventario de red, etc.
